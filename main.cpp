@@ -98,14 +98,20 @@ int main() {
     cout << "The area of a circle with a radius of " << radius << " = " << circleArea << endl;
 
 //        -----------------------Generate random nums-----------------------
-//    return 0 below means that the function executed successfully. Any other int means it did not.
     #include <cstdlib>
     #include <ctime>
 
-    long time(nullptr);
-    int number = srand(5);
-    cout << number;
+//    long time(nullptr);
+//    int number = srand(5);
+//    cout << number;
 
+    srand((unsigned) time(NULL));
+    int random = rand();
+    cout << "Random num: " << random;
+
+
+
+//    return 0 below means that the function executed successfully. Any other int means it did not.
     return 0;
 }
 

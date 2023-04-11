@@ -1,4 +1,16 @@
-/private/var/folders/nz/ysrgf85d4w95b0c1mrcvqh3r0000gn/T/AppTranslocation/28A72A59-D66D-4F9F-9830-C772BC87C902/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/private/var/folders/nz/ysrgf85d4w95b0c1mrcvqh3r0000gn/T/AppTranslocation/28A72A59-D66D-4F9F-9830-C772BC87C902/d/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/owner/CLionProjects/HelloWorld -B /Users/owner/CLionProjects/HelloWorld/cmake-build-debug
+/private/var/folders/nz/ysrgf85d4w95b0c1mrcvqh3r0000gn/T/AppTranslocation/C609E676-781E-4D87-B8D7-2C18A8A9B5B6/d/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/private/var/folders/nz/ysrgf85d4w95b0c1mrcvqh3r0000gn/T/AppTranslocation/C609E676-781E-4D87-B8D7-2C18A8A9B5B6/d/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/owner/CLionProjects/HelloWorld -B /Users/owner/CLionProjects/HelloWorld/cmake-build-debug
+-- The C compiler identification is AppleClang 14.0.0.14000029
+-- The CXX compiler identification is AppleClang 14.0.0.14000029
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /Library/Developer/CommandLineTools/usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /Library/Developer/CommandLineTools/usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /Users/owner/CLionProjects/HelloWorld/cmake-build-debug
