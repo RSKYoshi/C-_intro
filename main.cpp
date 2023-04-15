@@ -106,8 +106,14 @@ int main() {
 //    cout << number;
 
     srand((unsigned) time(NULL));
-    int random = rand();
+    int random = 1+ (rand() % 100);
     cout << "Random num: " << random;
+
+
+
+
+
+
 
 
 

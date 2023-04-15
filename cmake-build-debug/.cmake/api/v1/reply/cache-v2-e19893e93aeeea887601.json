@@ -115,7 +115,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/private/var/folders/nz/ysrgf85d4w95b0c1mrcvqh3r0000gn/T/AppTranslocation/C609E676-781E-4D87-B8D7-2C18A8A9B5B6/d/CLion.app/Contents/bin/cmake/mac/bin/cmake"
+			"value" : "/private/var/folders/nz/ysrgf85d4w95b0c1mrcvqh3r0000gn/T/AppTranslocation/5D0C83C2-C9BB-47BA-AA09-638E1EB84D9D/d/CLion.app/Contents/bin/cmake/mac/bin/cmake"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -127,7 +127,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/private/var/folders/nz/ysrgf85d4w95b0c1mrcvqh3r0000gn/T/AppTranslocation/C609E676-781E-4D87-B8D7-2C18A8A9B5B6/d/CLion.app/Contents/bin/cmake/mac/bin/cpack"
+			"value" : "/private/var/folders/nz/ysrgf85d4w95b0c1mrcvqh3r0000gn/T/AppTranslocation/5D0C83C2-C9BB-47BA-AA09-638E1EB84D9D/d/CLion.app/Contents/bin/cmake/mac/bin/cpack"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -139,7 +139,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/private/var/folders/nz/ysrgf85d4w95b0c1mrcvqh3r0000gn/T/AppTranslocation/C609E676-781E-4D87-B8D7-2C18A8A9B5B6/d/CLion.app/Contents/bin/cmake/mac/bin/ctest"
+			"value" : "/private/var/folders/nz/ysrgf85d4w95b0c1mrcvqh3r0000gn/T/AppTranslocation/5D0C83C2-C9BB-47BA-AA09-638E1EB84D9D/d/CLion.app/Contents/bin/cmake/mac/bin/ctest"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -595,7 +595,7 @@
 				}
 			],
 			"type" : "UNINITIALIZED",
-			"value" : "/private/var/folders/nz/ysrgf85d4w95b0c1mrcvqh3r0000gn/T/AppTranslocation/C609E676-781E-4D87-B8D7-2C18A8A9B5B6/d/CLion.app/Contents/bin/ninja/mac/ninja"
+			"value" : "/private/var/folders/nz/ysrgf85d4w95b0c1mrcvqh3r0000gn/T/AppTranslocation/5D0C83C2-C9BB-47BA-AA09-638E1EB84D9D/d/CLion.app/Contents/bin/ninja/mac/ninja"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -863,7 +863,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/private/var/folders/nz/ysrgf85d4w95b0c1mrcvqh3r0000gn/T/AppTranslocation/C609E676-781E-4D87-B8D7-2C18A8A9B5B6/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25"
+			"value" : "/private/var/folders/nz/ysrgf85d4w95b0c1mrcvqh3r0000gn/T/AppTranslocation/5D0C83C2-C9BB-47BA-AA09-638E1EB84D9D/d/CLion.app/Contents/bin/cmake/mac/share/cmake-3.25"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
